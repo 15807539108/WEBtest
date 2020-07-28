@@ -20,3 +20,5 @@ config_dir = os.path.join(project_path, "Config")
 log_dir = os.path.join(project_path, "Result\\logs")
 # report
 report_dir = os.path.join(project_path, "Result\\report")
+
+print("1111")
